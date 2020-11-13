@@ -50,4 +50,4 @@
 	}
 
 	customElements.define("com-demo-box-bps", BoxBps);
-})();
+})(); 
