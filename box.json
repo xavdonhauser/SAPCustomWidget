@@ -21,14 +21,14 @@
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://github.com/armando-j-a-santos/SAPCustomWidget/blob/master/box/box_sps.js",
+			"url": "https://github.com/xavdonhauser/SAPCustomWidget/blob/main/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://github.com/armando-j-a-santos/SAPCustomWidget/blob/master/box/box_bps.js",
+			"url": "https://github.com/xavdonhauser/SAPCustomWidget/blob/main/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
