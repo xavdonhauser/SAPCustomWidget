@@ -18,7 +18,7 @@
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demo-gauge-sps",
+			"tag": "com-demo-box-sps",
 			"url": "https://github.com/xavdonhauser/SAPCustomWidget/blob/main/box/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
@@ -30,12 +30,14 @@
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
+		
+
 	],
 	"properties": {
 		"value": {
 			"type": "number",
 			"description": "Gauge value",
-			"default": "0"
+			"default": 0
 		},
 		"info": {
 			"type": "string",
